@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="136" started-at="2020-07-29T18:05:26Z" finished-at="2020-07-29T18:05:27Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="136" started-at="2020-07-29T18:05:26Z" finished-at="2020-07-29T18:05:27Z">
+      <class name="qcclickacademy.mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAUtomation()[pri:0, instance:qcclickacademy.mavenjava.SeleniumTest@4e04a765]" name="BrowserAUtomation" duration-ms="1" started-at="2020-07-29T23:35:27Z" finished-at="2020-07-29T23:35:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAUtomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:qcclickacademy.mavenjava.SeleniumTest@4e04a765]" name="elementsUi" duration-ms="1" started-at="2020-07-29T23:35:27Z" finished-at="2020-07-29T23:35:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- qcclickacademy.mavenjava.SeleniumTest -->
+      <class name="qcclickacademy.mavenjava.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:qcclickacademy.mavenjava.RESTAPITest@13fee20c]" name="deleteTwitter" duration-ms="1" started-at="2020-07-29T23:35:27Z" finished-at="2020-07-29T23:35:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:qcclickacademy.mavenjava.RESTAPITest@13fee20c]" name="postJira" duration-ms="0" started-at="2020-07-29T23:35:27Z" finished-at="2020-07-29T23:35:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qcclickacademy.mavenjava.RESTAPITest -->
+      <class name="qcclickacademy.mavenjava.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:qcclickacademy.mavenjava.AppiumTest@5f2050f6]" name="IOSApps" duration-ms="24" started-at="2020-07-29T23:35:26Z" finished-at="2020-07-29T23:35:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAPpAndroid()[pri:0, instance:qcclickacademy.mavenjava.AppiumTest@5f2050f6]" name="NativeAPpAndroid" duration-ms="1" started-at="2020-07-29T23:35:27Z" finished-at="2020-07-29T23:35:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPpAndroid -->
+      </class> <!-- qcclickacademy.mavenjava.AppiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
